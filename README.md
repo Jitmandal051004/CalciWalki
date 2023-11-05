@@ -15,7 +15,7 @@ The Calculator Website is a simple and user-friendly online calculator that allo
 You can check out a live demo of the Calculator Website [here](https://jitmandal051004.github.io/CalciWalki/).
 
 ## Screenshots
-![light-theme Calculator Website Screenshot](screenshot/light-theme.png)
-![green-theme Calculator Website Screenshot](screenshot/green.png)
 ![orange-theme Calculator Website Screenshot](screenshot/orange.png)
+![green-theme Calculator Website Screenshot](screenshot/green.png)
+![light-theme Calculator Website Screenshot](screenshot/light-theme.png)
 
