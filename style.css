@@ -140,7 +140,6 @@ input[type="radio"]:checked {
 
 #light{
     --radio-color: #ed93e7;
-    margin-right: 25px;
 }
 
 #green-b{
@@ -150,6 +149,7 @@ input[type="radio"]:checked {
 
 #orange-b{
     --radio-color:#FF8008;
+    margin-right: 25px;
 }
 
 :root:has(#light:checked){
