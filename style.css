@@ -118,6 +118,7 @@ fieldset{
     /* background-color: white; */
     width: auto;
     height: auto;
+    border: 2px solid red;
 }
 
 legend{
@@ -132,6 +133,7 @@ input[type="radio"]{
     outline: 3px solid var(--radio-color, currentColor);
     outline-offset: 3px;
     border-radius: 50%;
+    border: 2px solid var(--radio-color);
 }
 
 input[type="radio"]:checked {
